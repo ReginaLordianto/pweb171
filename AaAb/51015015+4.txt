@@ -1,0 +1,5 @@
++10 tugas selesai
++2(x2=4) untuk setiap selector ke-7 dst
+-3(x5=15) untuk setiap halaman lagu tanpa back link
++5 untuk penggunaan <DIV> atau <SPAN>
+Total:+4
