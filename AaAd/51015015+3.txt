@@ -1,5 +1,0 @@
-+15 untuk tugas selesai
-+3 untuk setiap perbedaan typeface
--5 copyright nempel di atas
--5 warna sama antara judul dan counter
--5 << klik menu tidak hilang
