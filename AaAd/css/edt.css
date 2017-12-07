@@ -1,6 +1,6 @@
 body
 {
-  background-color: #ddeeff;
+  background-color: #dd99ff;
   font-family: Verdana;
 
 }
@@ -80,7 +80,7 @@ body
   margin-right: auto;
   margin-top: 20px;
   margin-bottom: 20px;
-  display: block;
+  display: none;
   overflow: hidden;
   font-weight: bold;
   text-align: center;
@@ -124,6 +124,16 @@ body
   background-color: #fff;
   text-align: center;
   font-size: 10px;
+}
+
+#info
+{
+  color: #ff00ff;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-left: auto;
+  width: 600px;
+  padding: 10px;
 }
 
 /*responsive layout*/
